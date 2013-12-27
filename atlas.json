@@ -1,6 +1,12 @@
 {
   "files": [
-    "Poems.html"
+    "cover.html",
+    "Poems.html",
+    "Neruda.html",
+    "Eliot.html",
+    "Oliver.html",
+    "Brown.html",
+    "Whitman.html"
   ],
   "formats": {
     "pdf": {
