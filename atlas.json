@@ -1,6 +1,5 @@
 {
   "files": [
-    "cover.html",
     "Poems.html"
   ],
   "formats": {
@@ -23,6 +22,6 @@
       "index": false
     }
   },
-  "theme": "",
+  "theme": "oreillymedia/atlas_trade_theme",
   "title": "Poems"
 }
