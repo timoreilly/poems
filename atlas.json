@@ -1,6 +1,7 @@
 {
   "files": [
-    "PoemCover.html"
+    "cover.html",
+    "Poems.html"
   ],
   "formats": {
     "pdf": {
@@ -22,6 +23,6 @@
       "index": false
     }
   },
-  "theme": "oreillymedia/atlas_tech1c_theme",
+  "theme": "",
   "title": "Poems"
 }
